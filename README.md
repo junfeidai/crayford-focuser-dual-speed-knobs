@@ -1,14 +1,8 @@
 # crayford-focuser-dual-speed-knobs
 
-<img width="626" alt="Screenshot 2024-05-15 141807" src="https://github.com/junfeidai/crayford-focuser-dual-speed-knobs/assets/48089076/bb094ca5-c4b2-4e57-9a0f-79ffc344b695">
-<img width="749" alt="Screenshot 2024-05-15 141553" src="https://github.com/junfeidai/crayford-focuser-dual-speed-knobs/assets/48089076/08d4365c-4c52-4155-8eed-064a53097aa7">
-<img width="761" alt="Screenshot 2024-05-15 141741" src="https://github.com/junfeidai/crayford-focuser-dual-speed-knobs/assets/48089076/f6bd6a26-7781-482a-be24-f364fc4d0a6a">
-<img width="551" alt="Screenshot 2024-05-15 141605" src="https://github.com/junfeidai/crayford-focuser-dual-speed-knobs/assets/48089076/86ba4c62-1336-44e1-bff9-7cb957b8ef43">
-<img width="638" alt="Screenshot 2024-05-15 141725" src="https://github.com/junfeidai/crayford-focuser-dual-speed-knobs/assets/48089076/2ca21c79-51b4-40c1-9bcf-ebeeaac6fc30">
-<img width="798" alt="Screenshot 2024-05-15 141633" src="https://github.com/junfeidai/crayford-focuser-dual-speed-knobs/assets/48089076/4d080ef4-c40d-4d98-85a8-c8b4207dd809">
-<img width="825" alt="Screenshot 2024-05-15 141659" src="https://github.com/junfeidai/crayford-focuser-dual-speed-knobs/assets/48089076/edfc217a-8b81-40b1-8446-222e6e639c1a">
-<img width="773" alt="Screenshot 2024-05-15 141710" src="https://github.com/junfeidai/crayford-focuser-dual-speed-knobs/assets/48089076/4b0682fe-0799-49d8-af31-7dfe263c5e6f">
-<img width="655" alt="Screenshot 2024-05-15 141943" src="https://github.com/junfeidai/crayford-focuser-dual-speed-knobs/assets/48089076/ec0b769f-1a86-496f-8416-b076fc21207d">
-<img width="623" alt="Screenshot 2024-05-15 141931" src="https://github.com/junfeidai/crayford-focuser-dual-speed-knobs/assets/48089076/e2e00de7-58a4-433c-b9b7-aefbef605eb1">
-<img width="836" alt="Screenshot 2024-05-15 142002" src="https://github.com/junfeidai/crayford-focuser-dual-speed-knobs/assets/48089076/17524ac1-2192-43c7-81a9-d7cb9d6ad1bd">
-
+<img width="990" alt="Screenshot 2024-05-19 232548" src="https://github.com/junfeidai/crayford-focuser-dual-speed-knobs/assets/48089076/39ff94d8-3af6-4cc5-940f-18f3d25f006a">
+<img width="959" alt="Screenshot 2024-05-19 232402" src="https://github.com/junfeidai/crayford-focuser-dual-speed-knobs/assets/48089076/5a3ec347-8004-4bc2-aea5-9cbedf893d81">
+<img width="1084" alt="Screenshot 2024-05-19 232343" src="https://github.com/junfeidai/crayford-focuser-dual-speed-knobs/assets/48089076/3c2542db-971c-4769-8b30-ebb0e69d89d4">
+<img width="1022" alt="Screenshot 2024-05-19 232327" src="https://github.com/junfeidai/crayford-focuser-dual-speed-knobs/assets/48089076/936f0b74-614d-4333-a4e5-a337b2019ac0">
+<img width="1080" alt="Screenshot 2024-05-19 232311" src="https://github.com/junfeidai/crayford-focuser-dual-speed-knobs/assets/48089076/83a224b2-39d4-42a0-9f71-6e75f232db9e">
+<img width="1132" alt="Screenshot 2024-05-19 232253" src="https://github.com/junfeidai/crayford-focuser-dual-speed-knobs/assets/48089076/e9ebe3bf-2cd1-4c79-b846-1c9364f27a30">
